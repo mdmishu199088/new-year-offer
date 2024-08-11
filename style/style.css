@@ -1,0 +1,98 @@
+.font {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+/******************* header style *************************/
+header{
+    background-image: url('../images/Banner\ Image.png');
+    width: 1320px;
+    height: 600px;
+    margin: 50px auto;
+    border-radius: 16px;
+    margin-bottom: 120px;
+    border: none;
+}
+.year{
+    font-size: 32px;
+    color: #FFFFFF;
+    margin: 0px;
+    text-align: center;
+}
+.party{
+    font-size: 72px;
+    color: #FFFFFF;
+    margin: 0px;
+    text-align: center;
+}
+.box{
+    width: 632px;
+    height: 246px;
+    padding: 123px 376px 231px 312px;
+}
+/*************** main style ******************/
+.first-heading{
+    font-weight: bold;
+    font-size: 88px;
+    color: #FF0000;
+    margin-bottom: 48px;
+}
+.main-first-part{
+    text-align: center;
+}
+main section small{
+    font-size: 24px;
+    font-weight: 16px;
+    color: #FF0000;
+}
+.section {
+    font-weight: bold;
+    font-size: 48px;
+    color: #070211;
+    margin-top: 16px;
+}
+.ph1{
+    margin-top: 48px;
+    margin-bottom: 120px;
+}
+/* ****main div***** */
+.mid-night{
+    background-image: url('../images/Vectorrr.png');
+     width: 1320px;
+    height: 600px;
+   margin: 0px auto;
+   align-items: center;
+    display: flex;
+    gap: 40px;
+}
+.mid-night-single-image{
+    padding-top: 70px;
+    padding-right: 138px;
+}
+.mid-heading{
+    font-size: 64px;
+    font-weight: 600px;
+    color: #FFFFFF;
+    margin-left: 120px;
+    margin-bottom: 24px;
+    width: 642px;
+    height: 176px;
+}
+.mid-description{
+    font-size: 18px;
+    color: #FFFFFF;
+    padding-left: 120px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.mid-join{
+    font-size: 20px;
+    color: #FFFFFF;
+    margin-left: 150px;
+    margin-top: 40px;
+}
+
+
