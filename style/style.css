@@ -96,7 +96,7 @@ main section small{
 }
 /* ********* 3rd part********* */
 .place-data{
-    background-image: linear-gradient(#f8dbdb,#fcfafa);
+    background-image: linear-gradient(#f4e4e4,#ffffff);
     margin: 0px auto;
     margin-top: 120px;
     width: 1320px;
@@ -136,3 +136,52 @@ main >section>div>h3{
 }
 
 /* *********** part 4 **************/
+.offer{
+    margin-left: 200px;
+    display: flex;
+    margin-bottom: 120px;
+    width: 1320px;
+    height: 463px;
+}
+.small-title{
+    font-size: 24px;
+    font-weight: 500px;
+    color: #FF0000;
+    margin-top: 104px;
+    margin-bottom: 16px;
+}
+.large-title{
+    font-size: 48px;
+    font-weight: 900px;
+    margin-bottom: 22px;
+}
+.offer-description{
+    font-size: 20px;
+    font-weight: 400px;
+    width: 400px;
+    height: 128px;
+}
+.three-style2{
+    border: 15px solid red;
+    padding: 35px;
+    border-radius: 300px;
+    margin-left: 70px;
+    margin-right: 118px;
+}
+.year{
+    font-size: 48px;
+    font-weight: 700;
+    color: #FF0000;
+    margin-top:112px ;
+    margin-right: 290px;
+    margin-bottom: 14px;
+}
+.year-description{
+    font-size: 20px;
+    width: 276px;
+    height: 96px;
+}
+.offer-3rd-img{
+    width: 140px;
+    height: 140px;
+}
