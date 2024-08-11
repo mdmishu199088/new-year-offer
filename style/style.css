@@ -6,7 +6,7 @@
     "wdth" 100;
 }
 
-/******************* header style *************************/
+/******************* 1st part *************************/
 header{
     background-image: url('../images/Banner\ Image.png');
     width: 1320px;
@@ -33,7 +33,7 @@ header{
     height: 246px;
     padding: 123px 376px 231px 312px;
 }
-/*************** main style ******************/
+/*************** 2nd part ******************/
 .first-heading{
     font-weight: bold;
     font-size: 88px;
@@ -58,7 +58,7 @@ main section small{
     margin-top: 48px;
     margin-bottom: 120px;
 }
-/* ****main div***** */
+/* *****main 2nd part**** */
 .mid-night{
     background-image: url('../images/Vectorrr.png');
      width: 1320px;
@@ -94,5 +94,45 @@ main section small{
     margin-left: 150px;
     margin-top: 40px;
 }
+/* ********* 3rd part********* */
+.place-data{
+    background-image: linear-gradient(#f8dbdb,#fcfafa);
+    margin: 0px auto;
+    margin-top: 120px;
+    width: 1320px;
+    height: 490px;
+    border-radius: 16px;
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 120px;
+}
+.place-heading-color{
+    color: #FF0000;
+}
+.back-color{
+    width: 167px;
+    height: 57px;
+    color: white;
+    background-color: #FF0000;
+    border-radius: 8px;
+    font-size: 20px;
+    border: none;
+}
+.place-dls{
+    padding: 100px 385px;
+}
+main >section>div>h3{
+    margin-top: 0px;
+    padding-top: 0px;
+}
+.for-place-margin2{
+    margin-bottom: 15px;
+}
+.for-place-margin3{
+    margin-bottom: 15px;
+}
+.for-place-margin{
+    margin-bottom: 64px;
+}
 
-
+/* *********** part 4 **************/
