@@ -298,6 +298,11 @@ margin-bottom: 120px;
     /* padding: 10px; */
     padding: 24px 56px;
 }
+.dipjol{
+ text-decoration: none;
+ color: #f4e4e4;
+ font-size: 20px;
+}
 .icon-back-color{
     background-color: #FFFFFF;
     font-size: 18px;
@@ -309,3 +314,59 @@ margin-bottom: 120px;
     text-align: center;
 }
 /* ********** part 8 footer  */
+footer{
+    background-color: #070211;
+    color: #f4e4e4;
+    font-size: 24px;
+    font-weight: 500px;
+    width: 1600px;
+    height: 609px;
+    margin: auto;
+}
+.footer-content1{
+    display: flex;
+    justify-content: space-between;
+}
+.footer-contacta{
+    width: 375px;
+    height: 80px;
+    margin-left: 140px;
+    margin-top: 120px;
+    margin-right: 560px;
+}
+.footer-contactb{
+    width: 250px;
+    height: 80px;
+    margin-top: 100px;
+    margin-right: 275px;
+}
+.numbera{
+    margin-bottom: 0px;
+}
+.numberb{
+    margin-top: 2px;
+}
+.line-brak{
+margin-top: 50px;
+width: 1320px;
+border: 1px solid rgb(54, 45, 45);
+}
+.footer-content2{
+    margin-top: 50px;
+text-align: center;
+}
+.abc{
+    margin-left: 24px;
+}
+.footer-content3{
+display: flex;
+justify-content: space-between;
+}
+.last-footer1{
+    margin-left: 140px;
+    margin-bottom: 120px;
+}
+.last-footer2{
+    margin-bottom: 120px;
+    margin-right: 140px;
+}
