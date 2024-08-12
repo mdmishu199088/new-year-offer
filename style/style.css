@@ -252,5 +252,60 @@ main >section>div>h3{
 }
 .product-image{
 display: flex;
+gap: 24px;
+}
+.image-product-core{
+    margin-bottom: 24px;
 }
 /* *************** part 7 ********************* */
+.icon{
+width: 1320px;
+height: 616px;
+background-color: rgb(246, 234, 234);
+border-radius: 15px;
+margin: auto;
+margin-bottom: 120px;
+}
+.image-icon-for-fix{
+    width: 150px;
+    height: 150px;
+    margin: auto;
+}
+.icon-image{
+    margin-top: 60px;
+}
+.icon-header{
+    font-size: 48px;
+    font-weight: 900;
+    text-align: center;
+    margin-top: 90px;
+    margin-bottom: 22px;
+}
+.icon-details{
+    font-size: 20px;
+    font-weight: 400;
+    width: 900px;
+    height: 64px;
+    margin-left: 212px;
+    text-align: center;
+}
+.icon-color-button{
+    color: #ffffff;
+    background-color: #FF0000;
+    font-size: 20px;
+    font-weight: 500px;
+    border: none;
+    /* padding: 10px; */
+    padding: 24px 56px;
+}
+.icon-back-color{
+    background-color: #FFFFFF;
+    font-size: 18px;
+    padding: 24px;
+    padding-right: 267px;
+    padding-left: 30px;
+}
+.icon-button{
+    text-align: center;
+}
+/* ********** part 8 footer  */
